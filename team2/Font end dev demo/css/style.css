@@ -8,9 +8,16 @@ html, body {
   transition: 50%;
 }
 
+.login-card{
+  margin: 10%;
+  padding: 10%;
+  border: 2%;
+  box-shadow: 0 0 10px 1px black;
+}
+
 .split {
   height: 100%;
-  width: 40%;
+  width: 50%;
   position: fixed;
   z-index: 1;
   top: 0;
